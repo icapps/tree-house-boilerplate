@@ -1,7 +1,7 @@
 {
-  "name": "tree-house-authentication",
-  "version": "1.0.0",
-  "description": "Tree House Authentication module",
+  "name": "tree-house-boilerplate",
+  "version": "0.0.0",
+  "description": "Tree House Boilerplate",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
