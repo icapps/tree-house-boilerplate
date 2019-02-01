@@ -18,9 +18,7 @@
   "precommit": [
     "lint"
   ],
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^23.3.13",
     "coveralls": "^3.0.2",
