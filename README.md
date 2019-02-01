@@ -2,7 +2,7 @@
 
 Boilerplate module written in typescript
 
-[![npm version](https://badge.fury.io/js/tree-house-boilerplate.svg)](https://badge.fury.io/js/tree-boilerplate-authentication)
+[![npm version](https://badge.fury.io/js/tree-house-boilerplate.svg)](https://badge.fury.io/js/tree-house-boilerplate)
 [![Dependencies](https://david-dm.org/icapps/tree-house-boilerplate.svg)](https://david-dm.org/icapps/tree-house-boilerplate.svg)
 [![Build Status](https://travis-ci.org/icapps/tree-house-boilerplate.svg?branch=master)](https://travis-ci.org/icapps/tree-house-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/icapps/tree-house-boilerplate/badge.svg)](https://coveralls.io/github/icapps/tree-house-boilerplate)
