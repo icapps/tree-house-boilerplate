@@ -1,6 +1,6 @@
 {
   "name": "tree-house-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tree House Boilerplate",
   "main": "build/index.js",
   "types": "build/index.d.ts",
